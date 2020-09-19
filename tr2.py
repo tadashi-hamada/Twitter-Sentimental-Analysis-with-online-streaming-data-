@@ -48,7 +48,7 @@ class TwitterClient():
 class TwitterAuthenticator():
 
     def authenticate_twitter_app(self):
-        ACCESS_TOKEN = '1145429812145577985-huYYValfVedAHCJjrERho1kYIFcGEv'
+        ACCESS_TOKEN = '<your token'
         ACCESS_SECRET = 'kJtQzUwq9tYgDVI1J4faqT8eSd8Pd3F2BNWY0OiJD8106'
         CONSUMER_KEY = 'YAXmxyUuD0S9XWjqpIED8lMTt'
         CONSUMER_SECRET = '7SOMXc1VzE3Xcq4ib9B1CZmOwWRxKWJtiqTHi1xWZ9NLomM3qS'
