@@ -51,7 +51,7 @@ class TwitterAuthenticator():
         ACCESS_TOKEN = '<your access token>'
         ACCESS_SECRET = '<your access secret>'
         CONSUMER_KEY = '<your consumer key>'
-        CONSUMER_SECRET = '7SOMXc1VzE3Xcq4ib9B1CZmOwWRxKWJtiqTHi1xWZ9NLomM3qS'
+        CONSUMER_SECRET = '<your consumer secret>'
         auth = OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
         auth.set_access_token(ACCESS_TOKEN, ACCESS_SECRET)
         return auth
