@@ -33,10 +33,10 @@ tweets = []
 class TwitterClient(object): 
     def __init__(self): 
         #Initialization method. 
-        ACCESS_TOKEN = '1145429812145577985-huYYValfVedAHCJjrERho1kYIFcGEv'
-        ACCESS_SECRET = 'kJtQzUwq9tYgDVI1J4faqT8eSd8Pd3F2BNWY0OiJD8106'
-        CONSUMER_KEY = 'YAXmxyUuD0S9XWjqpIED8lMTt'
-        CONSUMER_SECRET = '7SOMXc1VzE3Xcq4ib9B1CZmOwWRxKWJtiqTHi1xWZ9NLomM3qS'
+        ACCESS_TOKEN = '<enter>'
+        ACCESS_SECRET = '<enter>'
+        CONSUMER_KEY = '<enter>'
+        CONSUMER_SECRET = '<enter>'
         try: 
             # create OAuthHandler object 
             auth = OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
