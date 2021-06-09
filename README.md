@@ -1,4 +1,4 @@
-# Twiiter-Sentimental-Analysis-with-online-straming-data-
+# Twiiter-Sentimental-Analysis-with-online-streaming-data
 
 
                                               Manual
